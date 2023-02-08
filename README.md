@@ -8,7 +8,7 @@
 
 - On a mission to create my own big project.
 
-# Skills 🖥️
+## Skills 🖥️
 
 - Java
 
