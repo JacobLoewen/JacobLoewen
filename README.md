@@ -2,11 +2,21 @@
 
 ## About Me 💭
 
-- I'm currently a Computer Science student in Second Year with a passion for creation. 
+- I'm currently a Computer Science student in Second Year with a passion for creation.
 
-- I love working on projects (especially with others)
+- I love working on projects, learning new technologies, and problem solving.
 
-- Plan to one day start a huge project that will allow me to follow my dreams.
+- On a mission to create my own big project.
+
+# Skills 🖥️
+
+- Java
+
+- Python
+
+- HTML/CSS
+
+- Node
 
 ## Reach Out 📞
 
