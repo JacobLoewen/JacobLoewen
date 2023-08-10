@@ -6,7 +6,7 @@
 
 - I love working on projects, learning new technologies, and problem-solving.
 
-- "Dream big - but remember dreams without goals are just dreams" -Denzel Washington
+- "Dream big - but remember dreams without goals are just dreams" - Denzel Washington
 
 ## Skills 🖥️
 
