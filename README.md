@@ -2,11 +2,11 @@
 
 ## About Me 💭
 
-- I'm currently a Computer Science student in Second Year with a passion for creation.
+- I'm a Computer Science student in my Third Year and am passionate about creation and automation.
 
-- I love working on projects, learning new technologies, and problem solving.
+- I love working on projects, learning new technologies, and problem-solving.
 
-- On a mission to create my own big project.
+- "Dream big - but remember dreams without goals are just dreams" -Denzel Washington
 
 ## Skills 🖥️
 
