@@ -2,7 +2,7 @@
 
 ## About Me 💭
 
-- I'm a Computer Science student in my Third Year and am passionate about creation and automation.
+- I'm a Computer Science student in my Third Year. My passion lies in creation and automation.
 
 - I love working on projects, learning new technologies, and problem-solving.
 
