@@ -2,7 +2,7 @@
 
 ## About Me 💭
 
-- I'm a Computer Science student in my Third Year. My passion lies in creation and automation.
+- I've graduated with a Bachelor of Science in Computing Science (Data Science Stream) alone with a Mathematics Minor. My passion lies in creation and automation.
 
 - I love working on projects, learning new technologies, and problem-solving.
 
@@ -14,9 +14,7 @@
 
 - Python
 
-- HTML/CSS
-
-- Node
+- SQL
 
 ## Reach Out 📞
 
